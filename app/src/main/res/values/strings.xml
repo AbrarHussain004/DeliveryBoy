@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DeliveryBoy</string>
+    <string name="navHome">Home</string>
+    <string name="navOrder">Order</string>
+    <string name="navReq">Request</string>
+    <string name="navProf">Profile</string>
+    <string name="Profile">Profile</string>
+    <string name="Setting">Setting</string>
+    <string name="Language">Language</string>
+    <string name="txt_profile_share">Share</string>
+    <string name="txt_profile_privacy">Privacy Policy</string>
+    <string name="btn_edit_profile">Edit</string>
+    <string name="Home">Home</string>
+    <string name="Order">Order</string>
+    <string name="Request1">Request</string>
+    <string name="Request">Proceed Request</string>
+
+    <string name="txt_profile_history">Order History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
